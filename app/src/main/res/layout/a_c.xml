@@ -37,7 +37,7 @@
         android:layout_marginLeft="25dp"
         android:layout_marginStart="25dp"
         android:layout_toRightOf="@+id/button5"
-        android:text="妆容" />
+        android:text="zr" />
 
     <Button
         android:id="@+id/button7"
